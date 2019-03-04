@@ -1,0 +1,2 @@
+1.use old version of steinbarg sdk for compile vst,set different path in projucer global path for vst and vst3
+2.use old version of juce for compile vst , set vst3 sdk path only in global path of projucer
